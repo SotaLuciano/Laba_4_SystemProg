@@ -1,0 +1,9 @@
+D:\Visual Studio\System Programming\Laba_4_finish\Laba_4_f\Laba_4_f\bin\Debug\Laba_4_f.exe.config
+D:\Visual Studio\System Programming\Laba_4_finish\Laba_4_f\Laba_4_f\bin\Debug\Laba_4_f.exe
+D:\Visual Studio\System Programming\Laba_4_finish\Laba_4_f\Laba_4_f\bin\Debug\Laba_4_f.pdb
+D:\Visual Studio\System Programming\Laba_4_finish\Laba_4_f\Laba_4_f\obj\Debug\Laba_4_f.csprojResolveAssemblyReference.cache
+D:\Visual Studio\System Programming\Laba_4_finish\Laba_4_f\Laba_4_f\obj\Debug\Laba_4_f.exe
+D:\Visual Studio\System Programming\Laba_4_finish\Laba_4_f\Laba_4_f\obj\Debug\Laba_4_f.pdb
+D:\Visual Studio\System Programming\Laba_4\Laba_4_finish\Laba_4_f\Laba_4_f\bin\Debug\Laba_4_f.exe.config
+D:\Visual Studio\System Programming\Laba_4\Laba_4_finish\Laba_4_f\Laba_4_f\obj\Debug\Laba_4_f.exe
+D:\Visual Studio\System Programming\Laba_4\Laba_4_finish\Laba_4_f\Laba_4_f\obj\Debug\Laba_4_f.pdb

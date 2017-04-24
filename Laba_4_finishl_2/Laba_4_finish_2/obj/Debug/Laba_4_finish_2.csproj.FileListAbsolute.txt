@@ -1,0 +1,12 @@
+D:\Visual Studio\System Programming\Laba_4_finish_2\Laba_4_finish_2\bin\Debug\Laba_4_finish_2.exe.config
+D:\Visual Studio\System Programming\Laba_4_finish_2\Laba_4_finish_2\bin\Debug\Laba_4_finish_2.exe
+D:\Visual Studio\System Programming\Laba_4_finish_2\Laba_4_finish_2\bin\Debug\Laba_4_finish_2.pdb
+D:\Visual Studio\System Programming\Laba_4_finish_2\Laba_4_finish_2\obj\Debug\Laba_4_finish_2.csprojResolveAssemblyReference.cache
+D:\Visual Studio\System Programming\Laba_4_finish_2\Laba_4_finish_2\obj\Debug\Laba_4_finish_2.Properties.Resources.resources
+D:\Visual Studio\System Programming\Laba_4_finish_2\Laba_4_finish_2\obj\Debug\Laba_4_finish_2.csproj.GenerateResource.Cache
+D:\Visual Studio\System Programming\Laba_4_finish_2\Laba_4_finish_2\obj\Debug\Laba_4_finish_2.exe
+D:\Visual Studio\System Programming\Laba_4_finish_2\Laba_4_finish_2\obj\Debug\Laba_4_finish_2.pdb
+D:\Visual Studio\System Programming\Laba_4_finish_2\Laba_4_finish_2\obj\Debug\Form1.resources
+D:\Visual Studio\System Programming\Laba_4\Laba_4_finish_2\Laba_4_finish_2\bin\Debug\Laba_4_finish_2.exe.config
+D:\Visual Studio\System Programming\Laba_4\Laba_4_finish_2\Laba_4_finish_2\obj\Debug\Laba_4_finish_2.exe
+D:\Visual Studio\System Programming\Laba_4\Laba_4_finish_2\Laba_4_finish_2\obj\Debug\Laba_4_finish_2.pdb
